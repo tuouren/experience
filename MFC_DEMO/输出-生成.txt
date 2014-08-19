@@ -1,0 +1,91 @@
+﻿1>------ 已启动全部重新生成: 项目: MFC_DEMO, 配置: Debug Win32 ------
+1>生成启动时间为 2014-7-10 19:59:07。
+1>_PrepareForClean:
+1>  正在删除文件“Debug\MFC_DEMO.lastbuildstate”。
+1>InitializeBuildStatus:
+1>  正在对“Debug\MFC_DEMO.unsuccessfulbuild”执行 Touch 任务。
+1>ClCompile:
+1>  stdafx.cpp
+1>  outline.cpp
+1>  mscomm.cpp
+1>  MFC_DEMODlg.cpp
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(72): warning C4005: “INT8_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(144) : 参见“INT8_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(73): warning C4005: “INT16_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(146) : 参见“INT16_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(74): warning C4005: “INT32_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(148) : 参见“INT32_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(76): warning C4005: “INT8_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(167) : 参见“INT8_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(77): warning C4005: “INT16_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(171) : 参见“INT16_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(78): warning C4005: “INT32_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(176) : 参见“INT32_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(79): warning C4005: “UINT8_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(168) : 参见“UINT8_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(80): warning C4005: “UINT16_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(173) : 参见“UINT16_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(81): warning C4005: “UINT32_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(178) : 参见“UINT32_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(149): warning C4005: “INT64_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(152) : 参见“INT64_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(150): warning C4005: “INT64_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(184) : 参见“INT64_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(151): warning C4005: “UINT64_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(189) : 参见“UINT64_MAX”的前一个定义
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(74): error C2065: “IDC_VELOCITYANGLE”: 未声明的标识符
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(196): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(197): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(199): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(200): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(202): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(203): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(204): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(205): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(206): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(207): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(208): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(209): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(249): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(252): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(257): warning C4800: “VxInt32”: 将值强制为布尔值“true”或“false”(性能警告)
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\mfc_demodlg.cpp(258): warning C4800: “GX_STATUS”: 将值强制为布尔值“true”或“false”(性能警告)
+1>  MFC_DEMO.cpp
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(72): warning C4005: “INT8_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(144) : 参见“INT8_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(73): warning C4005: “INT16_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(146) : 参见“INT16_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(74): warning C4005: “INT32_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(148) : 参见“INT32_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(76): warning C4005: “INT8_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(167) : 参见“INT8_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(77): warning C4005: “INT16_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(171) : 参见“INT16_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(78): warning C4005: “INT32_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(176) : 参见“INT32_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(79): warning C4005: “UINT8_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(168) : 参见“UINT8_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(80): warning C4005: “UINT16_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(173) : 参见“UINT16_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(81): warning C4005: “UINT32_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(178) : 参见“UINT32_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(149): warning C4005: “INT64_MIN”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(152) : 参见“INT64_MIN”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(150): warning C4005: “INT64_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(184) : 参见“INT64_MAX”的前一个定义
+1>d:\program files\microsoft visual studio 10.0\vc\include\stdint.h(151): warning C4005: “UINT64_MAX”: 宏重定义
+1>          c:\program files\microsoft sdks\windows\v7.0a\include\intsafe.h(189) : 参见“UINT64_MAX”的前一个定义
+1>  Drive.cpp
+1>  CvvImage.cpp
+1>  bwlabel.cpp
+1>c:\program files\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\bwlabel.cpp(6): warning C4005: “MIN”: 宏重定义
+1>          c:\program files\opencv\build\include\opencv2\core\types_c.h(287) : 参见“MIN”的前一个定义
+1>  正在生成代码...
+1>c:\users\skywalker\documents\visual studio 2010\projects\mfc_demo\mfc_demo\outline.cpp(36): warning C4715: “outline::Get_HighThresh”: 不是所有的控件路径都返回值
+1>
+1>生成失败。
+1>
+1>已用时间 00:00:15.06
+========== 全部重新生成: 成功 0 个，失败 1 个，跳过 0 个 ==========
